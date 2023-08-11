@@ -7,7 +7,7 @@ The purpose of this analysis is to create and evaluate the accuracy of a data mo
 # Results
 
 Machine Learning Model 1:
-* This model has an accuracy of 99%. 
+* This model has an accuracy score of 99%. 
 
 * The precision score for healthy loans (0) is 100% and for high-risk loans (1) is at 85% which is not too bad. The precision score lets us know the percentage of predicted positives that were correct.
 
